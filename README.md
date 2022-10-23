@@ -77,6 +77,8 @@ const products = [{
   img: "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/5.jpg"
 }];
 ```
+[![Build status](https://ci.appveyor.com/api/projects/status/8diug244k1owp314/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-events-state-layouts/branch/main)
 
+[GH-Pages](https://nikitakurys.github.io/ra-events-state-layouts/)
 ---
 
